@@ -1,4 +1,4 @@
-![Welcome gif](Assets/Welcome.gif)
+![](Assets/Welcome.gif)
 ## Hi there 👋
 
 <!--
