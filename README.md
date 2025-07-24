@@ -1,3 +1,4 @@
+![Welcome gif](Assets/Hi! My name is Giovanna..gif)
 ## Hi there 👋
 
 <!--
