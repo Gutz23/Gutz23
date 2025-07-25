@@ -1,7 +1,8 @@
-name: Recent activity
+name: Metrics
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente
+    - cron: "0 0 * * *"  # Roda todo dia às 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,9 +11,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          filename: metrics.plugin.activity.svg
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
