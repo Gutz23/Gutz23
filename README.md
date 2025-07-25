@@ -9,5 +9,3 @@
 </div>
 
 ![](Assets/metrics.plugin.activity.svg)
-
-## Hi there 👋
