@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          filename: metrics.plugin.activity.svg
+          filename: Assets/metrics.plugin.activity.svg
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 7
