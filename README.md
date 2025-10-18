@@ -1,5 +1,3 @@
-<img src="Assets/Welcome.gif" alt="Welcome gif"></img>
-
 <div ></div>
 
 <div style="display: flex; vertical-align: center;">
